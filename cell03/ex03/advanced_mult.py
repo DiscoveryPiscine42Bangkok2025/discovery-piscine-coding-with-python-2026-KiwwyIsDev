@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-#!/usr/bin/env python3
-
 import sys
 
 if len(sys.argv) != 1:
@@ -18,6 +16,3 @@ else:
             j += 1
         print()
         i += 1
-
-
-
